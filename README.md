@@ -1,1 +1,2 @@
 # Task-Management-System
+The Task Management System is a web-based application designed to help individuals and teams manage and organize their tasks and projects efficiently. It allows users to create, update, prioritize, and track the progress of tasks, providing a streamlined approach to task management. The system features user authentication, task categorization, due dates, and status tracking to enhance productivity and collaboration.
